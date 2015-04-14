@@ -7,7 +7,7 @@ To download and install this program, you will need git installed.
 
 At the command line, enter:
 ```
-git clone https://github.com/alanriddle97/fs_proj1_movies.git
+git clone https://github.com/alanriddle/fs_proj1_movies.git
 ```
 
 # How to Start the Program and Display the Trailers
