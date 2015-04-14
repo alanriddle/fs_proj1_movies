@@ -9,6 +9,7 @@ At the command line, enter:
 ```
 git clone https://github.com/alanriddle/fs_proj1_movies.git
 ```
+Change directory to fs_proj1_movies.
 
 # How to Start the Program and Display the Trailers
 At the command line, enter:
